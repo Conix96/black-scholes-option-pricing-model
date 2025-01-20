@@ -2,7 +2,7 @@
 
 An interactive web application built with Streamlit that implements the Black-Scholes option pricing model. This tool helps traders and financial analysts calculate option prices and analyze various option trading metrics through an intuitive interface.
 
-
+![Demo](./resources/demo.mp4)
 
 ## 🚀 Features
 
